@@ -23,11 +23,10 @@ Identifying the problem of the stakeholders, they need to guide a marketing stra
 - readr
 
 ## Analysis
-This analysis was made in RStudio 
 
-![Markdown]()
+Download the HTML file to view the complete analysis. Please note that this analysis was conducted in RStudio.
 
-http://htmlpreview.github.io/https://github.com/ESmithE/Bellabeat_Analysis/blob/master/Bellabeat.html
+![Download](https://github.com/ESmithE/Bellabeat_Analysis/blob/master/Bellabeat.html)
 
 
 ## Answering 
