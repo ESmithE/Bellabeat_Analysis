@@ -38,7 +38,7 @@ Download the HTML file to view the complete analysis. Please note that this anal
 
 > Time Active
 
-![](https://github.com/ESmithE/Bellabeat_Analysis/blob/master/Sedentary_ActiveTime.png)
+![]()
 
 
 > Steps
