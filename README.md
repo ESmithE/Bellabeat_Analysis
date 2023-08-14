@@ -27,14 +27,7 @@ This analysis was made in RStudio
 
 ![Markdown]()
 
-https://github.com/ESmithE/Bellabeat_Analysis
-
-https://rawcdn.githack.com/[ESmithE]/[Bellabeat_Analysis
-]/[master]/[Bellabeat.html]
-
-
-
-Fuente: https://www.iteramos.com/pregunta/6859/Puedo-ejecutar-archivos-HTML-directamente-desde-GitHub-en-lugar-de-solo-ver-su-origen
+http://htmlpreview.github.io/https://github.com/ESmithE/Bellabeat_Analysis/blob/master/Bellabeat.html
 
 
 ## Answering 
