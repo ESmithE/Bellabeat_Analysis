@@ -30,6 +30,7 @@ Download the HTML file to view the complete analysis. Please note that this anal
 ![Download](https://github.com/ESmithE/Bellabeat_Analysis/blob/master/Bellabeat.html)
 
 
+
 ## Insights 
 
 
