@@ -26,6 +26,7 @@ Identifying the problem of the stakeholders, they need to guide a marketing stra
 
 Download the HTML file to view the complete analysis. Please note that this analysis was conducted in RStudio.
 
+
 ![Download](https://github.com/ESmithE/Bellabeat_Analysis/blob/master/Bellabeat.html)
 
 
