@@ -63,7 +63,7 @@ Data average:
 
 - Time in bed: 458.5 min - 7.64 hrs
 
-○ Heart rate: 77.33 beats per minute
+- Heart rate: 77.33 beats per minute
 
 
 ## View
