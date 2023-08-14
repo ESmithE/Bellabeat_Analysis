@@ -9,9 +9,9 @@ Urška Sršen and Sando Mur founded Bellabeat, a high-tech company that manufact
 Identifying the problem of the stakeholders, they need to guide a marketing strategy using product of Bellabeat. In this analysis I will answer this questions:
 
 ## Questions for the Analysis
-What are some trends in smart device usage?
-How could these trends apply to Bellabeat customers?
-How could these trends help inﬂuence Bellabeat marketing strategy?
+- What are some trends in smart device usage?
+- How could these trends apply to Bellabeat customers?
+- How could these trends help inﬂuence Bellabeat marketing strategy?
 
 
 ## Tech Stack
@@ -23,10 +23,9 @@ How could these trends help inﬂuence Bellabeat marketing strategy?
 - readr
 
 ## Analysis
-For this analisis 
+This analysis was made in RStudio 
 
 ![Markdown]()
-
 
 
 ## Answering 
