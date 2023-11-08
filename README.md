@@ -37,12 +37,13 @@ beauty, and mindfulness based on their lifestyle and goals.
 - tidr
 - readr
 
+## Data
+I use public data that explores smart device users' daily habits.Speciﬁc data set: FitBit Fitness Tracker Data (CC0: Public Domain, dataset made available through Mobius): This Kaggle data set contains personal ﬁtness tracker from **thirty ﬁtbit users**.
+
 ## Analysis
 
-Download the HTML file to view the complete analysis. Please note that this analysis was conducted in RStudio.
+Download the ![HTML](https://github.com/ESmithE/Bellabeat_Analysis/blob/master/Bellabeat.html) file to view the complete analysis. Please note that this analysis was conducted in RStudio.
 
-
-![Download](https://github.com/ESmithE/Bellabeat_Analysis/blob/master/Bellabeat.html)
 
 
 
